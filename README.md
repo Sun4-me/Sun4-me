@@ -14,4 +14,3 @@ I'v been committed to continuous learning and improvement every day.🌞
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-ffb13b?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-</br>
