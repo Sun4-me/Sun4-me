@@ -1,7 +1,7 @@
 ### :wave: Welcome to my github profile !
 <p align="left">
 Hi, I'm a self-motivated <b>data science</b> developer. </br>
-I'v been committed to continuous learning and improvement every day.🌞
+I've been committed to continuous learning and improvement every day.🌞
 </p>
 
 ---
