@@ -1,4 +1,4 @@
-### :wave: Welcome to my github profile !
+# :wave: Welcome to my github profile !
 <p align="left">
 Hi, I'm a self-motivated <b>data science</b> developer, background in business management.</br>
 I've been committed to continuous learning and improvement every day.🌞
