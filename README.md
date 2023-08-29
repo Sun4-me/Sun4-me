@@ -6,7 +6,7 @@ I've been committed to continuous learning and improvement every day.🌞
 
 ---
 
-<b>📚 Tech Stack </b>
+### <b>📚 Tech Stack </b>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-ffb13b?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
