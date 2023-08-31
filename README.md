@@ -11,6 +11,7 @@ I've been committed to continuous learning and improvement every day.🌞
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-ffb13b?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
